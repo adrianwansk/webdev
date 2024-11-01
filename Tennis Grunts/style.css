@@ -1,0 +1,43 @@
+.delpo {
+    background-image: url('./images/delpo.jpg');
+}
+
+.djokovic {
+    background-image: url('./images/djoko.jpg');
+}
+
+.federer {
+    background-image: url('./images/federer.jpg');
+}
+
+.nadal {
+    background-image: url('./images/nadal.jpg');
+}
+
+.wawrinka {
+    background-image: url('./images/wawrinka.jpg');
+}
+
+button {
+    height: 250px;
+    width: 250px; 
+    background-size: contain;
+    margin: 20px;
+    border-radius: 20%;
+}
+
+div {
+    margin: 100px 0px 100px 100px;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #dbdcf3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #0452da;
+}
+
+body {
+    text-align: center;
+    background-color: #dce6f0;
+}
